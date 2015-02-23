@@ -1,0 +1,31 @@
+body {
+    background: lightcyan;
+    width: 800px;
+    margin: auto;
+}
+
+h1 {
+    color: maroon;
+    text-align: center;
+}
+
+span
+{
+    color: crimson;
+    font-style: italic;
+}
+h2, h3
+{
+    color: midnightblue;
+}
+
+p {
+    color: teal;
+    border: 2px solid gray;
+    padding: 10px;
+}
+
+p:first-child
+{
+    background: PaleVioletRed;
+}
